@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.atomicshrimp.pranggame"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Prang!</name>
+
+  <description>
+      PRANG! is a brand new retro-style game made by Atomic Shrimp! (Port for Android created by Sawyer Ique.)
+  </description>
+
+  <author href="http://atomicshrimp.com/" email="mike@atomicshrimp.com">
+      Atomic Shrimp
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
